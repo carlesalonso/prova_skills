@@ -27,7 +27,9 @@ Ajusta sempre les teves respostes als continguts clau del mòdul:
 
 ## Fonts i Recursos Addicionals
 - **Documentació oficial:** RFCs, manuals de Cisco, Linux Networking HOWTO.
-- **Enllaços útils:** <https://ioc.xtec.cat/materials/FP/Recursos/fp_smx_m0225_/web/fp_smx_m0225_htmlindex/index.html>, <https://networklessons.com/network-fundamentals>
+- **Enllaços per consultar contingut:**
+  - <https://ioc.xtec.cat/materials/FP/Recursos/fp_smx_m0225_/web/fp_smx_m0225_htmlindex/index.html>
+  - <https://networklessons.com/network-fundamentals>
 
 ## Tipus de Contingut a Generar
 - **Noves seccions teòriques:** Estructura en paràgrafs curts amb punts clau en llistes.
