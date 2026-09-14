@@ -92,11 +92,11 @@ La **mètrica** és el valor que usa un protocol per decidir quina ruta és mill
 
 ## 4. Accés a Internet
 
-### 4.1 Breu introducció històrica
+### 4.1 Evolució de l’accés a Internet (context històric i transició)
 
 - **Mòdem analògic (dial-up):** connexió per línia telefònica RTC, velocitats molt baixes i ocupació de la línia de veu.
 - **ADSL:** usa el parell de coure telefònic amb més velocitat i separació de veu/dades.
-- **Cable (HFC):** accés per xarxa de televisió per cable, bones velocitats i gran implantació urbana.
+- **Cable (HFC):** accés per xarxa de televisió per cable, bones velocitats i gran implantació urbana; encara és vigent en moltes zones, tot i l’expansió de la fibra.
 
 ### 4.2 Actualitat: FTTH (Fiber To The Home)
 
