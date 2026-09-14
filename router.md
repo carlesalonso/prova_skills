@@ -76,6 +76,7 @@ La **mètrica** és el valor que usa un protocol per decidir quina ruta és mill
 - Protocol dinàmic de tipus **distance-vector**.
 - Mètrica: **nombre de salts (hop count)**.
 - Màxim 15 salts (16 = inassolible).
+- **RIP v1** és *classful* (no envia màscara), mentre que **RIP v2** és la versió habitual en IPv4 perquè suporta **CIDR/VLSM**.
 - Simple, però limitat per a xarxes grans.
 
 ### OSPF (Open Shortest Path First)
@@ -100,6 +101,8 @@ La **mètrica** és el valor que usa un protocol per decidir quina ruta és mill
 ### 4.2 Actualitat: FTTH (Fiber To The Home)
 
 La fibra arriba directament fins a casa de l’usuari.
+
+A diferència de solucions híbrides (on l’últim tram pot ser coure), en **FTTH** la fibra arriba fins al domicili en tot el tram d’accés.
 
 Característiques bàsiques:
 
